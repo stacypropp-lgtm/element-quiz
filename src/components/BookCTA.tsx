@@ -12,7 +12,7 @@ export default function BookCTA() {
         There's so much more where this came from
       </p>
       <p className="text-sm text-forest/70 mb-4 leading-relaxed">
-        Dive deeper into Five Element theory, tongue diagnosis, organ clock wisdom, and personalized herbal remedies in the book by Dr. Stacy Propp, DACM, L.Ac.
+        Dive deeper into Five Element theory, tongue diagnosis, organ clock wisdom, and personalized herbal remedies in the book by Dr. Stacy Peck, DACM, L.Ac.
       </p>
       <div className="flex flex-col sm:flex-row gap-3">
         <a

@@ -3,7 +3,7 @@
 ## Overview
 Build a beautiful, mobile-first React + TypeScript + Vite + Tailwind PWA consumer wellness app for Herbal Rhymes. This is a marketing funnel app — it should be so good people share their results on social media, which drives traffic back to the book purchase pages.
 
-**Author:** Dr. Stacy Propp, DACM, L.Ac.
+**Author:** Dr. Stacy Peck, DACM, L.Ac.
 **Brand:** Herbal Rhymes (herbalrhymes.com)
 **Design vibe:** Premium wellness — think Headspace meets Goop. Warm, sophisticated, NOT clinical. Rich earth tones, watercolor textures, elegant typography.
 
@@ -302,4 +302,4 @@ Self-assessment that maps emotional patterns to organ systems.
 
 ## Disclaimer
 Include a small footer disclaimer on every page:
-"This app is for educational and entertainment purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider. Created by Dr. Stacy Propp, DACM, L.Ac."
+"This app is for educational and entertainment purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider. Created by Dr. Stacy Peck, DACM, L.Ac."

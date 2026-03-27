@@ -47,7 +47,7 @@ export default function Landing() {
           Discover your Five Element type — the ancient Chinese medicine framework that explains your personality, health patterns, and emotional tendencies.
         </p>
         <p className="text-forest/50 text-sm">
-          By Dr. Stacy Propp, DACM, L.Ac. &middot;{' '}
+          By Dr. Stacy Peck, DACM, L.Ac. &middot;{' '}
           <a
             href="https://herbalrhymes.com"
             target="_blank"

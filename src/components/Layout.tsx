@@ -31,7 +31,7 @@ export default function Layout() {
       {/* Disclaimer */}
       <div className="px-4 pb-24 text-center">
         <p className="text-xs text-forest/50 max-w-lg mx-auto leading-relaxed">
-          This app is for educational and entertainment purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider. Created by Dr. Stacy Propp, DACM, L.Ac.
+          This app is for educational and entertainment purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider. Created by Dr. Stacy Peck, DACM, L.Ac.
         </p>
       </div>
 
