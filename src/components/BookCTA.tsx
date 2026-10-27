@@ -16,7 +16,7 @@ export default function BookCTA() {
       </p>
       <div className="flex flex-col sm:flex-row gap-3">
         <a
-          href="https://amazon.com/dp/PLACEHOLDER"
+          href="https://www.amazon.com/dp/B0GHPV8GVD"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full bg-forest text-cream text-sm font-medium transition-all hover:bg-forest-light hover:scale-[1.02] active:scale-[0.98]"
